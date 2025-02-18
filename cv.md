@@ -1,9 +1,8 @@
-% Ingénieur système & réseau
+% Architecte Cloud
 % Cédric ESNAULT
 % février 2016
 
-
-![][avatar]
+![Photo d'identité][avatar]
 
 ---
 
@@ -12,31 +11,33 @@
 * Né en 1977 à DINAN (22)
 * Nationalité Française
 * 2 enfants, vie maritale
-* 7 av. Marceau  
-94340 Joinville le Pont
+* 10 rue du petit Train
+22400 Lamballe-Armor
 * <cedric.esnault@cedricici.eu>
-* Salarié (Ile de france)
+* Salarié
 
 ---
 
-
 ## Expérience
 
-### **Depuis janvier 2016** Expert système & réseau au pôle technique géoportail à l'IGN
+### **Depuis Janvier 2023** Architecte en technologies Infonuagiques à l'IGN
 
-Migration de l'infrastructure géoportail dans un Cloud inter-ministériel *(geoportail.gouv.fr)* et suivi de l'évolution de la plateforme:
-* 200 Millions de requètes quotidiennes / 20 Milliards d'objets
-* 600 VM / 700 To de données 
+Création et évolution d'une offre d'hébergement pour la migration "move to Cloud" de +50 applications Legacy sur Kubernetes chez OVH.
+
+* Définition et déploiement "ascode" de l'offre (Terraform K8S + Openstack + API-OVH) *PLAT-DEV*
+* Accompagnement des équipes IT pour l'exploitation de l'offre *PLAT-OPS*
+* Accompagnement des développeurs dans la nouvelle offre *APP-OPS / APP-DEV*
+
+### **Janvier 2016 Décembre 2022** Expert système & réseau au pôle technique géoportail à l'IGN
+
+Migration et évolution de l'infrastructure géoportail dans un Cloud inter-ministériel *(geoportail.gouv.fr)*:
+
+* 300 Millions de requêtes quotidiennes / 20 Milliards d'objets
+* 600 VM / 700 To de données
 
 Mission : Expertise technique et conduite du changement pour la migration de cette infrastructure et de ses évolutions sur une architecture cible Openstack et CEPH
 
-* Particpation à la rédaction du CCTP de l'appel d'offre public (Usine Logicielle, architecture)
-* Contribution à la notation des offres des candidats
-* Création de la mise en place automatisée d'une infrastructure de test pour la qualification d'une offre de Cloud Inter-ministérielle (**Openstack/ansible**)
-* Réalisation de tests de performances de services géographiques sur cette infrastructure
-* Contribution au développement Open source d'un serveur de diffusion d'images géo-référencés (**Rok4**)
-* Optimisation des architectures des nouvelles applications sur l'infrastructure
-* Création d'une architecture d'application de traitement de données géographiques sous kubernetes
+* CCTP, Architecture technique, Notation, Qualification hébergement, Architecture applicative, CICD
 
 ### **Avril 2014 - juin 2015** Chef de projet infrastructure à l'IGN
 
@@ -115,13 +116,13 @@ Développement de cartographies et d'applications SIG opérationnelles.
 
 ### Informatique / réseau
 
-Liste non-hexaustive de technologies misent en oeuvre :
+Liste non-exhaustive de technologies misent en oeuvre :
 
-* **Administration** : Microsoft (Server, Storage, WDS, AD, Exchange), Linux (Debian, Red Hat, Ubuntu, Centos) , puppet, ansible, iSCSI, NFS, CEPH
-* **Virtualisation** : Xenserver, Vmware, Docker, KVM, Virtualbox, Cloud (Openstack, AWS,K8s)
-* **Developpement** : 
-C/C++, JAVA,JEE, html(5), css, javascript, node.js, php, bash, perl, python, Outils Devops (Gitlab/Redmine/Jenkins...)
-* **Réseau** : Cisco, HP, 3com, netasq/Stormshield, asterisk, Ipv6
+* **Administration** : Linux (Debian, Red Hat, Ubuntu, Centos, Alpine), puppet, ansible, iSCSI, NFS, CEPH, Terraform
+* **Virtualisation** : Xenserver, Vmware, Docker, KVM, Virtualbox, Cloud (Openstack, AWS, K8s)
+* **Developpement** :
+C/C++, JAVA, html, css, js, node.js, php, bash, perl, python, Outils Devops (Gitlab/Redmine/Jenkins...)
+* **Réseau/sécu** : Cisco, HP, 3com, netasq/Stormshield, asterisk, Ipv6, Keycloack, Kyverno, Trivy, ACME
 
 ### Publication
 
@@ -132,9 +133,9 @@ C/C++, JAVA,JEE, html(5), css, javascript, node.js, php, bash, perl, python, Out
 
 ## Informations complémentaires
 
-* Webmaster de nombreux sites d'associations (EmeraudeKite, coasign,...), utilisateur Linux depuis 2004, pi-addict
-* Guitare
-* Sport (Course d'orientation, Kitesurf)
+* Webmaster de  sites d'associations (EmeraudeKite, coasign,...), utilisateur Linux depuis 2004, pi-addict
+* Guitare, lutherie
+* Sport (Course d'orientation, Kitesurf, Kitefoil)
 
 <!-- Ce CV a été généré en Markdown avec pandoc-->
 
